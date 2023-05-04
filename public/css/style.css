@@ -1,0 +1,12 @@
+.container{
+    border: 8px solid black;
+}
+.row{
+    border: 9px solid pink;
+}
+.col{
+    border: 8px solid red; 
+}
+.col-5{
+    background-color: aqua;
+}
